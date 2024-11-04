@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #header 1
 **Vladimir Makarov**
 #header 2
@@ -37,3 +38,6 @@ no experience in development
 **Languages**
 *Russian - native speaker*
 *English - The initial level of English language proficiency*
+=======
+
+>>>>>>> 18dbeb6aea26cb2c3573c555683db668562f6218
