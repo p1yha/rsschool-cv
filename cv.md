@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #header 1
 **Vladimir Makarov**
 #header 2
@@ -18,7 +17,7 @@ HTML
 CSS 
 JavaScript 
 Photoshop
-№header 4
+№header 5
 ```javascript
 def grow(arr):
     m = 1
@@ -27,17 +26,17 @@ def grow(arr):
     return m
     pass
     ```
-#header 5
+#header 6
 **Experience**
 no experience in development
-#header 6
+#header 7
 **Education**
 *Medium special
 -*Applied computer science*
-#header 7
+#header 8
 **Languages**
 *Russian - native speaker*
 *English - The initial level of English language proficiency*
 =======
 
->>>>>>> 18dbeb6aea26cb2c3573c555683db668562f6218
+
