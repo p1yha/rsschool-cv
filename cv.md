@@ -1,4 +1,4 @@
-![](/rsschool-cv/photo_5420284251682763672_y)
+![](/rsschool-cv/photo_5420284251682763672_y.jpg)
 # **Vladmir Makarov**
 #  **My Contact Info:**
 * *email:* macarov.plyha@inbox.ru
